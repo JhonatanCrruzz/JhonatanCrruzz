@@ -13,15 +13,15 @@ Hi, I'm Jhonatan Cruz!
 <img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="300" height="300" />
 <br>
 
-- 🔭 I’m currently working on  Soy Estudiante
+- 🛠️ Currently, I'm constantly training to learn new tools and improve my skills.
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I'm currently learning Python and C++, diving into different programming paradigms and projects.
   
-- 👯 I’m looking to collaborate on Proyectos
+- 🤝 I'm looking to collaborate on exciting projects that push me to grow and contribute.
   
-- 💬 Ask me about Sql, Java, C#, JavaScript
+- 💬 I'm always open to learning from others, so feel free to share any insights or resources that could help me expand my knowledge.
   
-- ⚡ Fun fact: Me gustan los girasoles.
+- 🚀 My goal is to apply what I learn in real-world scenarios, creating impactful solutions.
 <br>
 <br>
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50" width="50" > Skills  </h2>
@@ -35,7 +35,7 @@ Hi, I'm Jhonatan Cruz!
   Connect with me  
 </h2> 
 
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/jhonatan-cruz-598631352/" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="50" width="50" /></a>
 
 
