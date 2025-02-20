@@ -4,9 +4,7 @@ Hi, I'm Jhonatan Cruz!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="45" width="45" >
 	</a>
 <br>
-<br>
 </h1>
-<br>
 <br>
 <p align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=900&height=100&size=40">
