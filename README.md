@@ -35,7 +35,8 @@ Hi, I'm Jhonatan Cruz!
 
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me  </h2> 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jhonatancrruzz@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl
+">
   <img width="32px" align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
 
