@@ -21,8 +21,8 @@ Hi, I'm Jhonatan Cruz!
 - 💬 I'm always open to learning from others, so feel free to share any insights or resources that could help me expand my knowledge.
 
 - 🚀 My goal is to apply what I learn in real-world scenarios, creating impactful solutions.
-
 <br>
+
 <h2> <img src = "https://img.icons8.com/?size=100&id=104233&format=png&color=000000" height="50" width="50" > Projects </h2>
 <br>
 
