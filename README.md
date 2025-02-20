@@ -32,11 +32,10 @@ Hi, I'm Jhonatan Cruz!
 <img src="https://skillicons.dev/icons?i=html" alt="HTML Logo"  height="50" width="50" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=js" alt="JS Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL Logo" height="50" width="50" />
 
 <br>
-<h2> 
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> 
-  Connect with me  
-</h2> 
+
+<h2> <img src = "https://img.icons8.com/?size=100&id=AUwsQr3iLOnC&format=png&color=000000" height="50" width="50" > Connect with me  </h2>
 <br>
+
 
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/jhonatan-cruz-598631352/" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="50" width="50" /></a>
