@@ -9,7 +9,7 @@ Hi, I'm Jhonatan Cruz!
 	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=900&height=100&size=40">
 </p>
 <h2> <img src = "https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" height="40" width="40" > About Me </h2>
-<img width="55%" align="right" alt="Github" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="300" height="300" />
+<img width="40%" align="right" alt="Github" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="200" height="300" />
 <br>
 
 - 📚 Currently, I'm constantly training to learn new tools and improve my skills.
