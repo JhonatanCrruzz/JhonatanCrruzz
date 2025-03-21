@@ -30,7 +30,7 @@ Hi, I'm Jhonatan Cruz!
     <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
     Password Generator
 </a>
-<br>
+
 
 <!-- Enlace al proyecto 2 -->
 <a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
