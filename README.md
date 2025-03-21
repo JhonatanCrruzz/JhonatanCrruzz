@@ -28,11 +28,10 @@ Hi, I'm Jhonatan Cruz!
 
 <!-- Proyecto 1 y Proyecto 2 alineados horizontalmente -->
 <div style="display: flex; justify-content: space-around;">
-    <a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
+	<a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
         <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
     </a>  
-
-    <a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
+	<a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
         <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
     </a>
 </div>
