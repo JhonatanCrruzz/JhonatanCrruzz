@@ -33,7 +33,7 @@ Hi, I'm Jhonatan Cruz!
 
 
 <!-- Enlace al proyecto 2 -->
-<a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
+<a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank" style="text-decoration: none; color: #ff6347; font-size: 18px; font-weight: bold; margin-right: 20px;">
     <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
     Color Collections
 </a>
