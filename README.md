@@ -29,16 +29,16 @@ Hi, I'm Jhonatan Cruz!
 <a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
     <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
     Password Generator
-</a>
-
-
-<!-- Enlace al proyecto 2 -->
-<a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank" style="text-decoration: none; color: #ff6347; font-size: 18px; font-weight: bold; margin-right: 20px;">
+</a>  <a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank" style="text-decoration: none; color: #ff6347; font-size: 18px; font-weight: bold; margin-right: 20px;">
     <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
     Color Collections
 </a>
 <br>
-[![Proyecto 2](https://skillicons.dev/icons?i=js)](URL_DE_TU_PROYECTO_2)
+
+
+
+
+
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50" width="50" > Skills  </h2>
 <br>
