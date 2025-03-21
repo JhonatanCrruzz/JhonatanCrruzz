@@ -23,22 +23,20 @@ Hi, I'm Jhonatan Cruz!
 - 🚀 My goal is to apply what I learn in real-world scenarios, creating impactful solutions.
 <br>
 
-<h2> <img src = "https://img.icons8.com/?size=100&id=104233&format=png&color=000000" height="50" width="50" > Projects </h2>
-<br>
-<!-- Enlace al proyecto 1 -->
-<a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
-    <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
-    
-</a>  <a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank" style="text-decoration: none; color: #ff6347; font-size: 18px; font-weight: bold; margin-right: 20px;">
-    <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
-    
-</a>
+<h2> <img src="https://img.icons8.com/?size=100&id=104233&format=png&color=000000" height="50" width="50" > Projects </h2>
 <br>
 
+<!-- Proyecto 1 y Proyecto 2 alineados horizontalmente -->
+<div style="display: flex; justify-content: space-around;">
+    <a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
+        <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
+    </a>  
 
-
-
-
+    <a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
+        <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
+    </a>
+</div>
+<br>
 
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50" width="50" > Skills  </h2>
 <br>
