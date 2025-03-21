@@ -26,16 +26,16 @@ Hi, I'm Jhonatan Cruz!
 <h2> <img src = "https://img.icons8.com/?size=100&id=104233&format=png&color=000000" height="50" width="50" > Projects </h2>
 <br>
 <!-- Enlace al proyecto 1 -->
-<a href="URL_DE_TU_PROYECTO_1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="Proyecto 1" height="50" width="50" />
-    Proyecto 1
+<a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
+    <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.jpg" alt="Preview Password Generator" height="100" width="100" />
+    Password Generator
 </a>
 <br>
 
 <!-- Enlace al proyecto 2 -->
-<a href="URL_DE_TU_PROYECTO_2" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="Proyecto 2" height="50" width="50" />
-    Proyecto 2
+<a href="https://jhonatancrruzz.github.io/Color_Collection/" target="_blank">
+    <img src="https://jhonatancrruzz.github.io/Color_Collection/assets/images/preview.jpg" alt="Preview Color Collections" height="100" width="100" />
+    Color Collections
 </a>
 <br>
 
