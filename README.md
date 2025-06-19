@@ -22,11 +22,11 @@ Hi, I'm Jhonatan Cruz!
 
 - 🚀 My goal is to apply what I learn in real-world scenarios, creating impactful solutions.
 <br>
-
+<!--
 <h2> <img src="https://img.icons8.com/?size=100&id=104233&format=png&color=000000" height="50" width="50" > Projects </h2>
 <br>
 
-<!-- Proyecto 1 y Proyecto 2 alineados horizontalmente 
+ Proyecto 1 y Proyecto 2 alineados horizontalmente 
 <div style="display: flex; justify-content: space-around;">
 	<a href="https://jhonatancrruzz.github.io/Password_Generator/" target="_blank">
         <img src="https://jhonatancrruzz.github.io/Password_Generator//assets/images/preview.webp" alt="Preview Password Generator" height="100" width="100" />
