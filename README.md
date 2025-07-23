@@ -14,7 +14,7 @@ Hi, I'm Jhonatan Cruz!
 
 - 📚 Currently, I'm constantly training to learn new tools and improve my skills.
 
-- 🌱 I'm currently learning Python and C++, diving into different programming paradigms and projects.
+- 🌱 I'm currently learning Python, diving into different programming paradigms and projects.
 
 - 🤝 I'm looking to collaborate on exciting projects that push me to grow and contribute.
 
