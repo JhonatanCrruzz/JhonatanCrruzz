@@ -40,7 +40,7 @@ Hi, I'm Jhonatan Cruz!
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50" width="50" > Skills  </h2>
 <br>
 
-<img src="https://skillicons.dev/icons?i=html" alt="HTML Logo"  height="50" width="50" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=js" alt="JS Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=mysql" alt="SQL Logo" height="50" width="50" />
+<img src="https://skillicons.dev/icons?i=html" alt="HTML Logo"  height="50" width="50" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=js" alt="Js Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=ts" alt="Ts Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Logo" width="50"/>
 
 <br>
 
@@ -48,8 +48,8 @@ Hi, I'm Jhonatan Cruz!
 <br>
 
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/jhonatan-cruz-598631352/" target="blank"><img align="start" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/jhonatan-cruz-598631352/" target="blank"><img align="start" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 
 
 
