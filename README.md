@@ -28,12 +28,12 @@
 <h2> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50" width="50" > Habilidades  </h2>
 <br>
 
-<img src="https://skillicons.dev/icons?i=html" alt="HTML Logo"  height="50" width="50" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=js" alt="Js Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=ts" alt="Ts Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Logo" width="50"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML Logo"  height="50" width="50" />  <img src="https://skillicons.dev/icons?i=css" alt="CSS Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=js" alt="Js Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=typescript" alt="Typscript Logo" width="50"/>  <img src="https://skillicons.dev/icons?i=react" alt="React Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=mongodb" alt="Mongo DB Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=git" alt="Git Logo" height="50" width="50" />  <img src="https://skillicons.dev/icons?i=github" alt="GitHub Logo" height="50" width="50" />
+
 
 <br>
 
 <h2> <img src = "https://img.icons8.com/?size=100&id=AUwsQr3iLOnC&format=png&color=000000" height="50" width="50" > Conecta conmigo  </h2>
 <br>
 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/jhonatan-cruz-598631352/" target="blank"><img align="start" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKkkRZrSCgRHFjXQhHVrqFFwhJSgMBLblkfzlfMZJrmpbJmjRdZXdNlLKZCnpCrxHzwdvzl" target="blank"><img align="start" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50" width="50" /></a>  <a href="https://www.linkedin.com/in/jhonatancrruzz/" target="blank"><img align="start" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
