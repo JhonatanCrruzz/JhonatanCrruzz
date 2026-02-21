@@ -6,7 +6,7 @@
 
 </h1>
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Estudiante+de+Ciencia+de+la+Computación;Desarrollador+Web+Full+Stack;Entusiasta+de+DS%20|%20AI%20|%20ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=900&height=100&size=40">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Web+Full+Stack;Entusiasta+de+DS%20|%20AI%20|%20ML;Siempre+aprendiendo+nuevas+cosas&center=true&width=900&height=100&size=40">
 </p>
 
 <h2> <img src = "https://img.icons8.com/?size=100&id=aJPLw-4jUCR3&format=png&color=000000" height="40" width="40" > Sobre mí </h2>
